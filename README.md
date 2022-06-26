@@ -2,6 +2,8 @@
 
 # This is WebScraper Project
 
+Simple web scraper to monitor price change and send text msg .
+
 - Dependencies :
 - "axios"
 - "cheerio"
